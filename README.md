@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# marvel_app
-=======
+
 # marvel_app
 
 # Autor Shanexon Ortiz
